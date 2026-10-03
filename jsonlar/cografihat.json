@@ -1,0 +1,412 @@
+[
+    {
+        "il": "Adana",
+        "kod": "322",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN322.xls"
+    },
+    {
+        "il": "Adıyaman",
+        "kod": "416",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN416.xls"
+    },
+    {
+        "il": "Afyon",
+        "kod": "272",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN272.xls"
+    },
+    {
+        "il": "Ağrı",
+        "kod": "472",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN472.xls"
+    },
+    {
+        "il": "Aksaray",
+        "kod": "382",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN382.xls"
+    },
+    {
+        "il": "Amasya",
+        "kod": "358",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN358.xls"
+    },
+    {
+        "il": "Ankara",
+        "kod": "312",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN312.xls"
+    },
+    {
+        "il": "Antalya",
+        "kod": "242",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN242.xls"
+    },
+    {
+        "il": "Ardahan",
+        "kod": "478",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN478.xls"
+    },
+    {
+        "il": "Artvin",
+        "kod": "466",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN466.xls"
+    },
+    {
+        "il": "Aydın",
+        "kod": "256",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN256.xls"
+    },
+    {
+        "il": "Balıkesir",
+        "kod": "266",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN266.xls"
+    },
+    {
+        "il": "Bartın",
+        "kod": "378",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN378.xls"
+    },
+    {
+        "il": "Batman",
+        "kod": "488",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN488.xls"
+    },
+    {
+        "il": "Bayburt",
+        "kod": "458",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN458.xls"
+    },
+    {
+        "il": "Bilecik",
+        "kod": "228",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN228.xls"
+    },
+    {
+        "il": "Bingöl",
+        "kod": "426",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN426.xls"
+    },
+    {
+        "il": "Bitlis",
+        "kod": "434",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN434.xls"
+    },
+    {
+        "il": "Bolu",
+        "kod": "374",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN374.xls"
+    },
+    {
+        "il": "Burdur",
+        "kod": "248",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN248.xls"
+    },
+    {
+        "il": "Bursa",
+        "kod": "224",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN224.xls"
+    },
+    {
+        "il": "Çanakkale",
+        "kod": "286",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN286.xls"
+    },
+    {
+        "il": "Çankırı",
+        "kod": "376",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN376.xls"
+    },
+    {
+        "il": "Çorum",
+        "kod": "364",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN364.xls"
+    },
+    {
+        "il": "Denizli",
+        "kod": "258",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN258.xls"
+    },
+    {
+        "il": "Diyarbakır",
+        "kod": "412",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN412.xls"
+    },
+    {
+        "il": "Düzce",
+        "kod": "380",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN380.xls"
+    },
+    {
+        "il": "Edirne",
+        "kod": "284",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN284.xls"
+    },
+    {
+        "il": "Elazığ",
+        "kod": "424",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN424.xls"
+    },
+    {
+        "il": "Erzincan",
+        "kod": "446",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN446.xls"
+    },
+    {
+        "il": "Erzurum",
+        "kod": "442",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN442.xls"
+    },
+    {
+        "il": "Eskişehir",
+        "kod": "222",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN222.xls"
+    },
+    {
+        "il": "Gaziantep",
+        "kod": "342",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN342.xls"
+    },
+    {
+        "il": "Giresun",
+        "kod": "454",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN454.xls"
+    },
+    {
+        "il": "Gümüşhane",
+        "kod": "456",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN456.xls"
+    },
+    {
+        "il": "Hakkari",
+        "kod": "438",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN438.xls"
+    },
+    {
+        "il": "Hatay",
+        "kod": "326",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN326.xls"
+    },
+    {
+        "il": "Iğdır",
+        "kod": "476",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN476.xls"
+    },
+    {
+        "il": "Isparta",
+        "kod": "246",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN246.xls"
+    },
+    {
+        "il": "Mersin",
+        "kod": "324",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN324.xls"
+    },
+    {
+        "il": "İstanbul (Avr)",
+        "kod": "212",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN212.xls"
+    },
+    {
+        "il": "İstanbul (And)",
+        "kod": "216",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN216.xls"
+    },
+    {
+        "il": "İzmir",
+        "kod": "232",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN232.xls"
+    },
+    {
+        "il": "Karabük",
+        "kod": "370",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN370.xls"
+    },
+    {
+        "il": "Karaman",
+        "kod": "338",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN338.xls"
+    },
+    {
+        "il": "Kars",
+        "kod": "474",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN474.xls"
+    },
+    {
+        "il": "Kastamonu",
+        "kod": "366",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN366.xls"
+    },
+    {
+        "il": "Kayseri",
+        "kod": "352",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN352.xls"
+    },
+    {
+        "il": "Kırıkkale",
+        "kod": "318",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN318.xls"
+    },
+    {
+        "il": "Kırklareli",
+        "kod": "288",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN288.xls"
+    },
+    {
+        "il": "Kırşehir",
+        "kod": "386",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN386.xls"
+    },
+    {
+        "il": "Kilis",
+        "kod": "348",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN348.xls"
+    },
+    {
+        "il": "K.Maraş",
+        "kod": "344",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN344.xls"
+    },
+    {
+        "il": "Kocaeli",
+        "kod": "262",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN262.xls"
+    },
+    {
+        "il": "Konya",
+        "kod": "332",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN332.xls"
+    },
+    {
+        "il": "Kütahya",
+        "kod": "274",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN274.xls"
+    },
+    {
+        "il": "Malatya",
+        "kod": "422",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN422.xls"
+    },
+    {
+        "il": "Manisa",
+        "kod": "236",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN236.xls"
+    },
+    {
+        "il": "Mardin",
+        "kod": "482",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN482.xls"
+    },
+    {
+        "il": "Muğla",
+        "kod": "252",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN252.xls"
+    },
+    {
+        "il": "Muş",
+        "kod": "436",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN436.xls"
+    },
+    {
+        "il": "Nevşehir",
+        "kod": "384",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN384.xls"
+    },
+    {
+        "il": "Niğde",
+        "kod": "388",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN388.xls"
+    },
+    {
+        "il": "Ordu",
+        "kod": "452",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN452.xls"
+    },
+    {
+        "il": "Osmaniye",
+        "kod": "328",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN328.xls"
+    },
+    {
+        "il": "Rize",
+        "kod": "464",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN464.xls"
+    },
+    {
+        "il": "Sakarya",
+        "kod": "264",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN264.xls"
+    },
+    {
+        "il": "Samsun",
+        "kod": "362",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN362.xls"
+    },
+    {
+        "il": "Siirt",
+        "kod": "484",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN484.xls"
+    },
+    {
+        "il": "Sinop",
+        "kod": "368",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN368.xls"
+    },
+    {
+        "il": "Sivas",
+        "kod": "346",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN346.xls"
+    },
+    {
+        "il": "Şanlıurfa",
+        "kod": "414",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN414.xls"
+    },
+    {
+        "il": "Şırnak",
+        "kod": "486",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN486.xls"
+    },
+    {
+        "il": "Tekirdağ",
+        "kod": "282",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN282.xls"
+    },
+    {
+        "il": "Tokat",
+        "kod": "356",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN356.xls"
+    },
+    {
+        "il": "Trabzon",
+        "kod": "462",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN462.xls"
+    },
+    {
+        "il": "Tunceli",
+        "kod": "428",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN428.xls"
+    },
+    {
+        "il": "Uşak",
+        "kod": "276",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN276.xls"
+    },
+    {
+        "il": "Van",
+        "kod": "432",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN432.xls"
+    },
+    {
+        "il": "Yalova",
+        "kod": "226",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN226.xls"
+    },
+    {
+        "il": "Yozgat",
+        "kod": "354",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN354.xls"
+    },
+    {
+        "il": "Zonguldak",
+        "kod": "372",
+        "link": "https://www.btk.gov.tr/uploads/ntsfiles/CN372.xls"
+    }
+]
