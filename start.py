@@ -4,10 +4,10 @@ from cografihat import cografi_sorgula
 from mobilhat import mobil_sorgula
 
 ASCII_ART = r"""
-           ⣿⣿⣿⣿⣿
-           ⣿⣿⣿⣿⣿
-           ⣿⣿⣿⣿⣿
-           ⣿⣿⣿⣿⣿
+            ⣿⣿⣿⣿⣿
+            ⣿⣿⣿⣿⣿
+            ⣿⣿⣿⣿⣿
+            ⣿⣿⣿⣿⣿
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣶⣶⣶⣶⣶⣿⡷
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⠛⠛⠛⠛⠷⣶⣤⣀
 ⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠈⢳⡀⢀⣠⣴⡿⠿⠛⠁
